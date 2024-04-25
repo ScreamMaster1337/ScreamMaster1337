@@ -34,8 +34,6 @@
   ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-  ![MariaDB](https://img.shields.io/badge/-Mariadb-black?style=flat&logo=mariadb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
   ![Debian](https://img.shields.io/badge/-Debian-black?style=flat&logo=debian)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)
   ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
@@ -44,12 +42,8 @@
   ![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=Redis)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat&logo=cloudflare)
-  ![Laravel](https://img.shields.io/badge/-Lavarel-black?style=flat&logo=laravel)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
-  ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js)
-  ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat&logo=nestjs)
   ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-  ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat&logo=svelte) 
   <br>
   
   <br><br>
