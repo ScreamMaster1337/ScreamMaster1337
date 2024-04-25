@@ -15,16 +15,11 @@
   <h2>⚒ Languages</h2>
   
   ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-  ![Lua](https://img.shields.io/badge/-Lua-black?style=flat&logo=lua) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
   ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
   ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
-  ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat&logo=sass)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c)
-  ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
+  !
   <br>
 
 
