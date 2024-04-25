@@ -19,7 +19,6 @@
   ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
   ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
-  !
   <br>
 
 
