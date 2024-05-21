@@ -14,7 +14,7 @@
 
   <h2>⚒ Languages</h2>
   
-  ![Java](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=java)  
+  ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
   <br>
 
