@@ -39,7 +39,6 @@
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat&logo=cloudflare)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
-  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
   <br>
   
   <br><br>
