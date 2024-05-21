@@ -1,6 +1,7 @@
 <div align="center">
   <h1> Hey, i'm Mateusz! 👋 </h1>
   <img src="https://komarev.com/ghpvc/?username=ScreamMaster1337" alt="ScreamMaster1337" /><br/><br/>
+  <img src="https://cdn.discordapp.com/attachments/1213665856135897139/1242421449625440379/dc.png?ex=664dc6a4&is=664c7524&hm=0f3740edde8364f8845d71f9ed9da45033d9ee216a926af1d690a41d05dbe4b9&" alt="header"/>
    <h2>📫 Social Media</h2>
   
   <b>Discord:</b> <code>ScreamMaster1337</code> ・ 
