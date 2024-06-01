@@ -41,8 +41,8 @@
   ![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=Redis)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat&logo=cloudflare)
-  ![ReactJS](https://img.shields.io/badge/-React-black?style=flat&logo=React)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
+  ![ReactJS](https://img.shields.io/badge/-React.js-black?style=flat&logo=React)
+  ![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
   <br>
   
   <br><br>
