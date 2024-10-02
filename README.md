@@ -16,8 +16,10 @@
   
   ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
   ![HTML](https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5) 
   ![CSS](https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3)
+  ![PHP](https://img.shields.io/badge/PHP-black?style=flat&logo=PHP)
   <br>
 
 
