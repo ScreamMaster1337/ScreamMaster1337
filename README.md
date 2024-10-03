@@ -14,7 +14,7 @@
 
   <h2>⚒ Languages</h2>
   
-  ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)  
+  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&color=000000)](#)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
   ![HTML](https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5) 
@@ -30,7 +30,7 @@
   ![InteliJ Idea](https://img.shields.io/badge/InteliJ%20idea-black?style=flat&logo=intellij-idea)
   ![WebStorm](https://img.shields.io/badge/WebStorm-black?style=flat&logo=webstorm)
   ![PHPStorm](https://img.shields.io/badge/PHPStorm-black?style=flat&logo=phpstorm)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
+  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&color=000000)](#)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-black?style=flat&logo=adobexd) 
   ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
