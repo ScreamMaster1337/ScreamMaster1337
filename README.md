@@ -1,8 +1,8 @@
 <div align="center">
   <h1> Hey, i'm Mateusz! 👋 </h1>
   <img src="https://komarev.com/ghpvc/?username=ScreamMaster1337" alt="ScreamMaster1337" /><br/><br/>
-   <h2>📫 Social Media</h2>
   
+   <h2>📫 Social Media</h2>
   <b>Discord:</b> <code>ScreamMaster1337</code> ・ 
   <b>Discord Server: <a href="https://dc.m4code.pl">dc.m4code.pl</a>
   <br>
